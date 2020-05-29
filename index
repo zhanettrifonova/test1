@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Моята първа HTML страница</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+</head>
+<body>
+<!-- Начало на текста -->
+Текст
+Текст
+Текст
+<!-- Край на текста -->
+</body>
+</html>
